@@ -1,4 +1,3 @@
-projectV2_47982
+projectv2_47982
 ===============
-
-second try
+this is the repository for the final project in Intro To Programming, CSC5 47982
